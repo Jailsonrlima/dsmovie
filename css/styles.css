@@ -47,7 +47,7 @@ nav a {
     font-weight: 400;
 }
 
-a, a:hover {//teste
+a, a:hover {
     text-decoration: none;
     color: unset;
 }
@@ -215,4 +215,10 @@ a, a:hover {//teste
 
 .dsmovie-flip-horizontal {
     transform: rotate(180deg);
+}
+
+.dsmovies-form-container{
+    padding: 40px 0;
+    max-width: 480px;
+
 }
