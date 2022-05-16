@@ -98,21 +98,23 @@ a, a:hover {
     align-items: center;
 }
 
-.dsmovie-card-description-bottom h4 {
-    font-size: 16px;
-    font-weight: 700;
-    color: var(--star-yellow);
-}
-
-.dsmovie-card-description-bottom img {
-    width: 22px;
-}
-
 .dsmovie-card-description-bottom p {
     font-size: 12px;
     font-weight: 400;
     color: var(--text-light-gray);
     margin-bottom: 10px;
+}
+
+
+.dsmovie-card-description-bottom h4{
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--star-yellow);
+}
+
+.dsmovie-card-description-bottom img{
+width: 22px;
+
 }
 
 .dsmovie-btn, .dsmovie-btn:hover {
@@ -222,6 +224,5 @@ a, a:hover {
     max-width: 480px;
 
 }
-
 
 
